@@ -1,11 +1,14 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { SafeAreaView, StatusBar, StyleSheet } from 'react-native'
+import { Colors } from './source/Themes/Colors'
+import AppRoutes from './source/Routes/AppRoutes'
 
 const App = () => {
   return (
-    <View style={styles.container}>
-      <Text>App</Text>
-    </View>
+    <SafeAreaView style={styles.container}>
+      <StatusBar backgroundColor={Colors.appColorDark} />
+      <AppRoutes />
+    </SafeAreaView>
   )
 }
 
@@ -14,6 +17,5 @@ export default App
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'pink'
   },
 })

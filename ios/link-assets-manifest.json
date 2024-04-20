@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "source/Assets/Fonts/FontExporter.js",
+      "sha1": "8a247dd8303ddbc64eff51a48cc298b234655486"
+    },
+    {
+      "path": "source/Assets/Fonts/Kalam-Bold.ttf",
+      "sha1": "2a559015d425e2197d24dd64ec5f575b713c008f"
+    },
+    {
+      "path": "source/Assets/Fonts/Kalam-Light.ttf",
+      "sha1": "309afbdc02fed52d623f9870114f826f43623da7"
+    },
+    {
+      "path": "source/Assets/Fonts/Kalam-Regular.ttf",
+      "sha1": "8780563680372a86968c46c50cba05143654fe49"
+    },
+    {
+      "path": "source/Assets/Images/HeartBeat.json",
+      "sha1": "306a13b359f85bcfeb4fba9b67931b97d3e1b456"
+    },
+    {
+      "path": "source/Assets/Images/ImageExporter.js",
+      "sha1": "a9e3093099778a3a7e5b57dc2e203f8ba0651fd3"
+    }
+  ]
+}
